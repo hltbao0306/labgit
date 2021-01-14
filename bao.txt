@@ -1,1 +1,5 @@
-Bao hello lop nnnnnnn
+<<<<<<< HEAD
+Bao hello lop n
+=======
+Bao hello lop n
+>>>>>>> bao
